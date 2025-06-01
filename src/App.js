@@ -8,11 +8,11 @@ function App() {
       <div className="section">
         <h2>Personal</h2>
         <ul>
-          <li>Pay off credit cards starting with Chase - 5/23/25!</li>
-          <li>Make better personal budget</li>
+          <li><del>Pay off credit cards starting with Chase - 5/23/25!</del></li>
+          <li><del>Make better personal budget</del></li>
           <li>Switch over health and dental insurance to Ariel's work insurance</li>
           <li>Download software for linux system for security - (like Find My Device)</li>
-          <li>Buy Ethereum, once order for $500 worth of ADA clears at $0.80/coin</li>
+          <li><del>Buy Ethereum, once order for $500 worth of ADA clears at $0.80/coin</del></li>
         </ul>
       </div>
 
@@ -20,9 +20,9 @@ function App() {
         <h2>Wife/Kids</h2>
         <ul>
           <li>Potty train Sylas!</li>
-          <li>Get Okra for Ariel and make okra water for smooth delivery</li>
+          <li><del>Get Okra for Ariel and make okra water for smooth delivery</del></li>
           <li>Make Ariel personal budget, and joint budget</li>
-          <li>Put together hospital bag for baby delivery!</li>
+          <li><del>Put together hospital bag for baby delivery!</del></li>
           <li>Create investment schedule for Ariel and I to automate</li>
         </ul>
       </div>
@@ -30,7 +30,7 @@ function App() {
       <div className="section">
         <h2>At Home</h2>
         <ul>
-          <li>Put together dresser</li>
+          <li><del>Put together dresser</del></li>
           <li>Setup new baby stuff</li>
           <li>Go through garage and house - sell items on facebook marketplace</li>
           <li>Clean front patio, make it nice to sit outside!</li>
@@ -45,13 +45,13 @@ function App() {
       <div className="section">
         <h2>King Progress IT</h2>
         <ul>
-          <li>Create W&K monthly maintenance checklist</li>
+          <li><del>Create W&K monthly maintenance checklist</del></li>
           <li>Organize W&K work/initiatives - consult Ian</li>
         </ul>
       </div>
 
       <div className="section">
-        <h2>Rhoades Tech IT</h2>
+        <h2>Rhoades Tech IT (Field Nation)</h2>
         <ul>
           <li>Look into Ulta Job - learn DIA circuitry</li>
           <li>Learn how to terminate a female RJ-45 face plate</li>
@@ -63,7 +63,7 @@ function App() {
       <div className="section">
         <h2>Web Development</h2>
         <ul>
-          <li>Email Johnny a proposal for his catering website</li>
+          <li><del>Email Johnny a proposal for his catering website</del></li>
           <li>Complete Deborah's art website!</li>
           <li>Spruce up Asher's website, and finish his Google Business Profile</li>
         </ul>
