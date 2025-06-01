@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/life-todolist/static/css/main.e34f3d5f.css",
+    "main.js": "/life-todolist/static/js/main.da62f432.js",
+    "index.html": "/life-todolist/index.html",
+    "main.e34f3d5f.css.map": "/life-todolist/static/css/main.e34f3d5f.css.map",
+    "main.da62f432.js.map": "/life-todolist/static/js/main.da62f432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e34f3d5f.css",
+    "static/js/main.da62f432.js"
+  ]
+}
